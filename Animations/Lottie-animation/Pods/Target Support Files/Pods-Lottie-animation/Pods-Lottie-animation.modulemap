@@ -1,0 +1,6 @@
+module Pods_Lottie_animation {
+  umbrella header "Pods-Lottie-animation-umbrella.h"
+
+  export *
+  module * { export * }
+}

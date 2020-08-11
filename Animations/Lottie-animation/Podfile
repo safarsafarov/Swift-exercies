@@ -1,0 +1,5 @@
+platform :ios, '13.6'
+
+target 'Lottie-animation' do
+    pod 'lottie-ios'
+end
