@@ -160,9 +160,17 @@ func createAddress() -> Address {
     
     return someAddress
 }
+
 john.residence?.address = createAddress()
 if (john.residence?.address = someAddress) != nil {
     print("It was possible to set the address.")
 } else {
     print("It was not possible to set the address.")
 }
+
+if let firstRoomName = john.residence?[0].name {
+    print("The first room name is \(firstRoomName).")
+} else {
+    print("Unable to retrieve the first room name.")
+}
+// Prints "Unable to retrieve the first room name."
