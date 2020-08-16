@@ -1,6 +1,3 @@
-# This repo is only for swift exercises:
+## This repo is only for swift exercises:
 
-### What you will find in this repo:
-◦ Basic Swift exercies.
-◦ Animations in Swift by using different libraries.
-◦ Trying stupid thing, to test whether will it work or nope.
+Here you can find exercises which I do daily or whne I have learned new thing, everything will be from CS50 Swift course. Feel free to check it.
